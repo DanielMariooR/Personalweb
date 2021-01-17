@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/Personalweb/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Personalweb/static/js/main.d9720098.chunk.js",
-    "main.js.map": "/Personalweb/static/js/main.d9720098.chunk.js.map",
-    "runtime-main.js": "/Personalweb/static/js/runtime-main.a0c10bd5.js",
-    "runtime-main.js.map": "/Personalweb/static/js/runtime-main.a0c10bd5.js.map",
-    "static/js/2.77ed682a.chunk.js": "/Personalweb/static/js/2.77ed682a.chunk.js",
-    "static/js/2.77ed682a.chunk.js.map": "/Personalweb/static/js/2.77ed682a.chunk.js.map",
-    "static/js/3.6f9e52be.chunk.js": "/Personalweb/static/js/3.6f9e52be.chunk.js",
-    "static/js/3.6f9e52be.chunk.js.map": "/Personalweb/static/js/3.6f9e52be.chunk.js.map",
+    "main.css": "/Personalweb/static/css/main.26bfbe21.chunk.css",
+    "main.js": "/Personalweb/static/js/main.6a5b7e8f.chunk.js",
+    "main.js.map": "/Personalweb/static/js/main.6a5b7e8f.chunk.js.map",
+    "runtime-main.js": "/Personalweb/static/js/runtime-main.cc0e100a.js",
+    "runtime-main.js.map": "/Personalweb/static/js/runtime-main.cc0e100a.js.map",
+    "static/css/2.7beb46cd.chunk.css": "/Personalweb/static/css/2.7beb46cd.chunk.css",
+    "static/js/2.97d67667.chunk.js": "/Personalweb/static/js/2.97d67667.chunk.js",
+    "static/js/2.97d67667.chunk.js.map": "/Personalweb/static/js/2.97d67667.chunk.js.map",
+    "static/js/3.9d44a988.chunk.js": "/Personalweb/static/js/3.9d44a988.chunk.js",
+    "static/js/3.9d44a988.chunk.js.map": "/Personalweb/static/js/3.9d44a988.chunk.js.map",
     "index.html": "/Personalweb/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Personalweb/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.77ed682a.chunk.js.LICENSE.txt": "/Personalweb/static/js/2.77ed682a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Personalweb/static/media/logo.6ce24c58.svg"
+    "static/css/2.7beb46cd.chunk.css.map": "/Personalweb/static/css/2.7beb46cd.chunk.css.map",
+    "static/css/main.26bfbe21.chunk.css.map": "/Personalweb/static/css/main.26bfbe21.chunk.css.map",
+    "static/js/2.97d67667.chunk.js.LICENSE.txt": "/Personalweb/static/js/2.97d67667.chunk.js.LICENSE.txt",
+    "static/media/photo.54367380.png": "/Personalweb/static/media/photo.54367380.png",
+    "static/media/index.css": "/Personalweb/static/media/roboto-mono-latin-700italic.bf4b4e73.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0c10bd5.js",
-    "static/js/2.77ed682a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d9720098.chunk.js"
+    "static/js/runtime-main.cc0e100a.js",
+    "static/css/2.7beb46cd.chunk.css",
+    "static/js/2.97d67667.chunk.js",
+    "static/css/main.26bfbe21.chunk.css",
+    "static/js/main.6a5b7e8f.chunk.js"
   ]
 }
